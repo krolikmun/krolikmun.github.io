@@ -1,0 +1,23 @@
+body {
+    background-color: #f2f2f2 !important;
+    font-weight: 400;
+    font-family: 'Mulish', sans-serif !important;
+}
+
+h1 {
+    color: #222;
+    font-family: 'Montserrat', sans-serif !important;
+    font-weight: 700 !important;
+}
+
+body {
+    position: relative;
+  }
+
+footer {
+    position: relative;
+    top: 0;
+    color: #222;
+    font-weight: 400;
+    font-family: 'Mulish', sans-serif;
+}
